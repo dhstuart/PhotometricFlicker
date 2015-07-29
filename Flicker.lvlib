@@ -28,6 +28,6 @@
 	<Item Name="Flicker Logging.lvlib" Type="Library" URL="../Logging/Flicker Logging.lvlib"/>
 	<Item Name="Flicker Settings.lvlib" Type="Library" URL="../Settings/Flicker Settings.lvlib"/>
 	<Item Name="Flicker Main.vi" Type="VI" URL="../Flicker Main.vi"/>
-	<Item Name="Metadata Cluster.ctl" Type="VI" URL="../Metadata Cluster.ctl"/>
-	<Item Name="Sphere Indicator.ctl" Type="VI" URL="../Sphere Indicator.ctl"/>
+	<Item Name="Metadata Cluster.ctl" Type="VI" URL="../controls/Metadata Cluster.ctl"/>
+	<Item Name="Sphere Indicator.ctl" Type="VI" URL="../controls/Sphere Indicator.ctl"/>
 </Library>
